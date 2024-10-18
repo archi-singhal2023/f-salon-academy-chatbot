@@ -1,0 +1,38 @@
+{
+  "id": "ce803877-a9bb-4c56-a1ae-1732ec03de86",
+  "name": "Cosmetic Formulations",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "At F Salon Academy, we offer a variety of courses in Cosmetic Formulations, including:\n\n1. Basic Cosmetic Chemistry (1 month) for those new to the field.\n2. Advanced Cosmetic Chemistry (1 month) for those looking to deepen their knowledge. Would you like to know more about a specific course?",
+            "Our cosmetic formulation programs include:\n\n1. Basic Cosmetic Chemistry (1 month) to learn the foundations of creating cosmetics.\n2. Advanced Cosmetic Chemistry (1 month) for advanced techniques and formulation skills. Interested in exploring one of these courses in detail?",
+            "At F Salon Academy, you can find:\n\n1. Basic Cosmetic Chemistry (1 month) for a solid introduction to the world of cosmetics.\n2. Advanced Cosmetic Chemistry (1 month) for those seeking in-depth formulation knowledge. Let me know if you want to dive deeper into a specific program!",
+            "We offer exciting courses in cosmetic formulations, such as:\n\nBasic Cosmetic Chemistry (1 month) for beginners to learn the essentials of product formulation.\nAdvanced Cosmetic Chemistry (1 month) for professionals aiming to enhance their expertise. Which course would you like to discuss?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
