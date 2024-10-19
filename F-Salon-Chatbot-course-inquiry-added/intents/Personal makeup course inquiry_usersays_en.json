@@ -1,0 +1,67 @@
+[
+  {
+    "id": "80eaa4d1-affd-46ab-829d-bba8e6fb2fae",
+    "data": [
+      {
+        "text": "Can you give me details on the Personal Makeup course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d1a3712-39d1-40a6-8ceb-52646f97cffa",
+    "data": [
+      {
+        "text": "What\u0027s included in the Personal Makeup program?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95aad4c0-fd42-4dc3-8697-ff9fe170fa4e",
+    "data": [
+      {
+        "text": "I want to learn about personal makeup.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8277764-298a-46da-bb5f-0e19dd7d98fd",
+    "data": [
+      {
+        "text": "What does the Personal Makeup course cover?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db5affb7-b62b-4a7b-9132-1f71b693bedd",
+    "data": [
+      {
+        "text": "Tell me about the Personal Makeup course.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "id": "a78bdc3f-74fe-452a-a015-2ca2aefb3e8a",
+  "name": "Advanced Beauty Science Course Inquiry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our Advanced Beauty Science course includes the following:\n        Course Duration: 3 months\n        Fees: ₹40,000"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Topics Covered:\n   - Skin structure and in-depth analysis.\n   - Chemical treatments and advanced facials.\n   - Cosmetic chemistry and product formulation.\n   - Hair removal techniques and electrology."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Career Opportunities:\n   - Skincare and beauty consultant.\n   - Specialist in advanced skincare treatments.\n   - Trainer in beauty schools or clinics."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

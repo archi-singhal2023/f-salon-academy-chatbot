@@ -1,0 +1,42 @@
+{
+  "id": "755abc28-b9ce-4e5c-9446-ec83b300c53f",
+  "name": "Makeup course Inquiry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We have makeup courses designed for all skill levels. You can choose from:\n\n1. Personal Makeup Artistry (15 days) to master everyday makeup skills.\n2. Bridal Makeup (3 months) to specialize in stunning wedding looks.\n3. Advanced Makeup Artistry (2 months) for professionals looking to refine their expertise. \nWould you like to explore one of these courses in more detail?",
+            "We offer a variety of Makeup Artistry courses:\n\n1. Personal Makeup Artistry (15 days) for personal grooming and basic makeup skills.\n2. Bridal Makeup (3 months) for creating perfect wedding looks.\n3. Advanced Makeup Artistry (2 months) to dive deep into techniques and trends. Feel free to ask about a specific course, and I\u0027ll provide more details.",
+            "Our makeup Artistry program include:\n\n1. Personal Makeup Artistry (15 days) for daily looks and personal use.\n2. Bridal Makeup (3 months) if you’re looking to specialize in bridal and special occasion makeup.\n3. Advanced Makeup Artistry (2 months) to learn professional-level skills. Which one interests you the most?",
+            "We’ve got the perfect makeup courses to help you excel in beauty:\n\n1. Personal Makeup Artistry (15 days) for mastering personal makeup.\n2. Bridal Makeup (3 months) to become a bridal beauty expert.\n3. Advanced Makeup Artistry (2 months) to polish your skills at a professional level. Want to know more about any of these?",
+            "Our makeup courses range from:\n\n1. Personal Makeup Artistry (15 days) for beginners.\n2. Bridal Makeup (3 months) if you\u0027re aiming for a specialized focus on weddings.\n3. Advanced Makeup Artistry (2 months) to elevate your skills. Which course can I tell you more about?",
+            "At F Salon Academy, we offer:\n\nPersonal Makeup Artistry (15 days) for a quick and effective boost in makeup skills.\nBridal Makeup (3 months) to specialize in stunning bridal transformations.\nAdvanced Makeup Artistry (2 months) for seasoned artists looking to enhance their craft. Interested in a specific course?",
+            "Whether you\u0027re just starting or looking to refine your skills, we’ve got you covered:\n\n1. Personal Makeup Artistry (15 days) for the basics.\n2. Bridal Makeup (3 months) to create timeless wedding looks.\n3. Advanced Makeup Artistry (2 months) for more advanced techniques. Which one suits your needs?",
+            "If you\u0027re passionate about makeup, we have the right course for you:\n\n1. Personal Makeup Artistry (15 days) for everyday and personal makeup.\n2. Bridal Makeup (3 months) for crafting perfect bridal styles.\n3. Advanced Makeup Artistry (2 months) for deep-dive professional training. Would you like more information on one of these?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

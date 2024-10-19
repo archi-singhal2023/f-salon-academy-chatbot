@@ -1,0 +1,55 @@
+{
+  "id": "2c755470-a32b-4b42-9f0f-d2eeb8ccea25",
+  "name": "Advanced Hair Technology Course Inquiry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our Advanced Hair Technology course includes the following:\n         Course Duration: 3-8 months\n         Fees: ₹50,000"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Topics Covered:\n   - Advanced hair cutting techniques.\n   - Hair treatment methods, including spa and scalp treatments.\n   - Hair straightening and perming.\n   - Hair coloring techniques, highlights, and balayage."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Career Opportunities:\n   - Senior hair stylist in top beauty salons.\n   - Specialist in advanced hair treatments and techniques.\n   - Freelance hair expert for high-profile clients and events."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ab833ce2-645c-49ac-b1d7-b02004ecd654",
+    "data": [
+      {
+        "text": "Can you give me details on Advanced Hair Technology?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6eecf6c-3277-4436-a2e5-72452ac09cb1",
+    "data": [
+      {
+        "text": "What does the Advanced Hair course cover?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c390e4db-4450-4bc5-afa1-6800c7726259",
+    "data": [
+      {
+        "text": "What\u0027s included in the Advanced Hair Technology course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97ab8761-3b7c-4a00-a77e-74b692bc61e9",
+    "data": [
+      {
+        "text": "Tell me about the Advanced Hair Technology course.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "a4c26aae-a742-4fb4-889c-751cfc2aee2c",
+    "data": [
+      {
+        "text": "Do you have courses on making cosmetics?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "020e1bb1-c54b-468b-a397-fe8d36a5c987",
+    "data": [
+      {
+        "text": "Can I learn how to formulate skincare products at your academy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3bd8e3f9-448f-442d-b805-9382ccfc2d4d",
+    "data": [
+      {
+        "text": "What techniques will I learn in your cosmetic chemistry courses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c906d2b-1a80-4347-9b86-39bac036b0ad",
+    "data": [
+      {
+        "text": "Do you offer any beginner courses in cosmetic formulations?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2283f327-9e4a-4d9d-920f-5a1f9a1b8c1b",
+    "data": [
+      {
+        "text": "Can you tell me about your cosmetic chemistry programs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9fc45d4-5a42-4c97-a370-d2bcaa716676",
+    "data": [
+      {
+        "text": "What courses do you offer in cosmetic formulations?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
