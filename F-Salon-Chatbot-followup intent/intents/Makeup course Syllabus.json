@@ -1,0 +1,57 @@
+{
+  "id": "212c46bd-5e76-418b-8b92-9118d0bb40d6",
+  "parentId": "755abc28-b9ce-4e5c-9446-ec83b300c53f",
+  "rootParentId": "755abc28-b9ce-4e5c-9446-ec83b300c53f",
+  "name": "Makeup course Syllabus",
+  "auto": true,
+  "contexts": [
+    "MakeupcourseInquiry-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MakeupcourseInquiry.MakeupcourseInquiry-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "In our makeup courses, you’ll cover topics such as skin preparation, contouring, foundation application, eye makeup, bridal and party looks, and special effects.",
+            "In our makeup classes, you’ll start with the basics of skin care and progress to advanced techniques like contouring, eye shadow blending, and professional bridal makeup.",
+            "The makeup course syllabus includes everything from skin analysis and base application to creative skills like smoky eye looks, contouring, and color correction.",
+            "Our curriculum is designed to build essential skills. Topics include facial analysis, product knowledge, blending techniques, and both day and evening makeup.",
+            "You’ll gain a well-rounded foundation in makeup artistry, learning about foundation matching, eye makeup styles, and highlighting techniques."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Each course has a unique syllabus based on the level and duration. Would you like details on a specific course?",
+            "We also teach trending styles and special effects in the advanced programs. Need more information on a particular topic?",
+            "For advanced learners, we also cover bridal and editorial styles. Let us know if you want details on a specific part of the curriculum!\"",
+            "We offer advanced modules for bridal and party looks, as well as special effects. Is there a specific technique you’d like to learn about?",
+            "Advanced modules focus on bridal, party, and theatrical makeup styles. Do you want to explore one of these areas in depth?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

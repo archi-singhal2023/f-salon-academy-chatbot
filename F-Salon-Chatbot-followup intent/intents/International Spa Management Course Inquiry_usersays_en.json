@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ad4c0604-e16c-4194-ba8a-d4e94e3b6627",
+    "data": [
+      {
+        "text": "Can you give details about the International Spa Management program?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da26c6c7-d055-47ba-b23f-42537abbaa0b",
+    "data": [
+      {
+        "text": "I\u0027m interested in the International Spa course.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21d08077-40bd-4b67-8945-844e322e19c0",
+    "data": [
+      {
+        "text": "What does the Spa Management course cover?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "983032a9-8a84-4c86-bb12-a3dcab87fb06",
+    "data": [
+      {
+        "text": "Tell me about the International Spa Management course.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

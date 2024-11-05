@@ -1,0 +1,55 @@
+{
+  "id": "095dbcdc-c4f5-4489-84d3-ed8400fc8208",
+  "name": "Hair Styling and Designing Course Inquiry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our Hair Styling and Designing course includes the following:\n         Course Duration: 10 days - 2 months\n          Fees: ₹20,000"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Topics Covered:\n   - Basic to advanced hairstyling techniques.\n   - Haircuts, coloring, and creative styling.\n   - Hair care and maintenance.\n   - Hair styling for events and occasions."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Career Opportunities:\n   - Hair stylist in salons and beauty centers.\n   - Freelance hair designer for events.\n   - Hair specialist in the fashion industry."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
