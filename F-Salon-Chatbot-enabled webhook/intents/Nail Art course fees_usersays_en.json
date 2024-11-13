@@ -1,0 +1,142 @@
+[
+  {
+    "id": "683590fa-ae94-4455-82f1-9a681a98ea0f",
+    "data": [
+      {
+        "text": "What\u0027s the tuition fee for ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "D nail art training?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e862c81-5459-4599-b6df-e79a415848e3",
+    "data": [
+      {
+        "text": "How much is the certification course in nail art?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a198582-92fb-48c5-a502-7bd28a54880a",
+    "data": [
+      {
+        "text": "What\u0027s the price range for nail art and extensions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cad75847-73f2-4ffa-ada4-721ffca80419",
+    "data": [
+      {
+        "text": "Can you provide details on fees for nail programs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81f3aa40-6d29-4a2f-97d3-621d7cf16755",
+    "data": [
+      {
+        "text": "What are the charges for advanced nail art courses?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c64934c3-1fa1-4756-b9e1-d1bdf4ccbaa2",
+    "data": [
+      {
+        "text": "Is there a fee structure for the nail styling classes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5a1c500-1e43-4934-b84e-dbbd17b31564",
+    "data": [
+      {
+        "text": "What\u0027s the cost of the nail art and extension course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9fdc090-06dc-46fa-b9f3-bbdcac12f7d0",
+    "data": [
+      {
+        "text": "Can you tell me the price for the 3D nail art program?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b351f64-c86b-4fe6-a998-9a97c61836d2",
+    "data": [
+      {
+        "text": "What are the fees for nail extension training?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "972d2bf5-f290-469d-af7c-440b6ad83f3d",
+    "data": [
+      {
+        "text": "How much does the nail art course cost?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

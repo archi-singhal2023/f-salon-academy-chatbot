@@ -1,0 +1,57 @@
+{
+  "id": "692bc28c-5401-426f-ba2e-f0bde22ec197",
+  "parentId": "83409458-e1e5-4925-97ed-68eeaac17f84",
+  "rootParentId": "83409458-e1e5-4925-97ed-68eeaac17f84",
+  "name": "Spa \u0026 Ayurveda Course syllabus",
+  "auto": true,
+  "contexts": [
+    "SpaAyurvedaTherapies-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SpaAyurvedaTherapies.SpaAyurvedaTherapies-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our Spa \u0026 Ayurveda Therapy courses cover a wide range of topics. You’ll learn Ayurvedic principles, aromatherapy, body massage techniques, spa treatments, and basic herbal remedies.",
+            "The syllabus includes both foundational and advanced spa therapies. You’ll explore Ayurvedic body massage, herbal treatments, detox techniques, aromatherapy, and spa operations.",
+            "In our Spa \u0026 Ayurveda courses, you’ll be trained in holistic wellness practices such as Ayurvedic massage, essential oil therapy, and body wraps. The curriculum also includes modules on spa management and customer service.",
+            "The Spa \u0026 Ayurveda course syllabus is designed to build expertise in areas like Ayurvedic treatments, aromatherapy, relaxation techniques, and herbal therapies. You’ll also learn about managing spa environments and enhancing the client experience.",
+            "Our curriculum covers Ayurvedic healing techniques, spa therapies, herbal preparation, and detox treatments. You’ll gain skills in body massage, aromatherapy, and even wellness consultation for spa clients."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Advanced modules also cover wellness consultation and spa management. Would you like details on a specific area?",
+            "Let me know if there\u0027s a particular topic you’d like to hear more about!",
+            "Interested in learning about a specific technique?",
+            "Would you like more details on one of these topics?",
+            "Let me know if you’d like to dive deeper into any of these areas."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

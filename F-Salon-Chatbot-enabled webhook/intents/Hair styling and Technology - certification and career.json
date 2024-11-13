@@ -1,0 +1,43 @@
+{
+  "id": "efe37491-9520-4237-ad8e-01acf2e6d4dd",
+  "parentId": "4e63b7d3-8c32-4478-9115-44f9af1d80ad",
+  "rootParentId": "4e63b7d3-8c32-4478-9115-44f9af1d80ad",
+  "name": "Hair styling and Technology - certification and career",
+  "auto": true,
+  "contexts": [
+    "HairstylingandTechnology-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HairstylingandTechnology.HairstylingandTechnology-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes, all our hair styling courses come with a certification recognized in the beauty industry. This certification can open up opportunities to work as a professional stylist in salons, start your own business, or specialize in creative and bridal hair styling. Would you like guidance on specific career paths?",
+            "Upon completing any of our hair technology courses, you will receive a certification. Graduates often find roles as salon stylists, hair color specialists, or freelance hair designers. Let me know if you\u0027re interested in hearing about specific job roles.",
+            "Our hair technology certifications are highly regarded in the industry. Many graduates go on to work as hair stylists in salons, manage their own clients, or even become educators in advanced hair techniques. Do you have a particular career goal in mind?",
+            "Yes, you’ll receive an industry-recognized certification after completing your course, which can help you find opportunities as a salon stylist, bridal hair specialist, or freelance hair designer. Are you interested in exploring more about the career opportunities in hair styling?",
+            "Each hair styling course includes certification that enhances your credibility as a professional. This can help you pursue careers as a hair consultant, salon professional, or even specialize in fashion and editorial styling. Let me know if you’d like more details on any specific career path!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

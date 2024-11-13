@@ -1,0 +1,40 @@
+{
+  "id": "bfa2dc63-754e-41c9-ac1e-c9bf7a215341",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I didn\u0027t get that. Can you say it again?",
+            "Sorry, I didn\u0027t get that. Can you rephrase?",
+            "I’m sorry, I didn’t quite understand that. Could you rephrase your question or ask about one of our courses?",
+            "Hmm, I’m not sure I got that. Try asking about specific courses, fees, or course schedules.",
+            "It seems I didn’t catch that. Could you provide more details? I’m here to help with course information!",
+            "I’m here to assist with questions on courses, fees, schedules, and more. Could you ask in a different way?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

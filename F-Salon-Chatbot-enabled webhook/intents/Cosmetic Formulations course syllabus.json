@@ -1,0 +1,57 @@
+{
+  "id": "1f8f2fcc-7c41-4e5c-aea1-eec1595ac72b",
+  "parentId": "ce803877-a9bb-4c56-a1ae-1732ec03de86",
+  "rootParentId": "ce803877-a9bb-4c56-a1ae-1732ec03de86",
+  "name": "Cosmetic Formulations course syllabus",
+  "auto": true,
+  "contexts": [
+    "CosmeticFormulations-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CosmeticFormulations.CosmeticFormulations-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our Cosmetic Formulations course covers a wide range of topics, including the basics of cosmetic chemistry, ingredient selection, and formulation techniques for skincare and haircare. You’ll also learn about product safety, stability testing, and regulations.",
+            "he syllabus includes foundational knowledge in cosmetic chemistry, ingredient properties, formulation methods, and product development. We’ll also cover advanced techniques for creating skin and haircare products, along with guidelines for safety and efficacy.",
+            "In our Cosmetic Formulations course, you’ll learn about ingredient functions, formulation principles, and creating products like creams, lotions, shampoos, and makeup. Advanced modules include stability testing and regulatory compliance.",
+            "Our curriculum focuses on cosmetic chemistry fundamentals, formulating skincare and haircare products, and understanding the science behind cosmetic ingredients. You’ll also cover safety practices, testing, and packaging considerations.",
+            "You’ll gain hands-on experience in cosmetic formulation, learning to create products from scratch, select effective ingredients, and test for stability and safety. Topics include skincare, haircare, and basic makeup formulation."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Interested in hearing about a specific technique?",
+            "Is there a specific module you’d like to explore?",
+            "Would you like more information on a particular topic?",
+            "Let me know if there’s a specific area you’re interested in!",
+            "Would you like more details on a specific module?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

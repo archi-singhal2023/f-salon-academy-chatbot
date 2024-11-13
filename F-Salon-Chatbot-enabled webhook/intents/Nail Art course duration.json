@@ -1,0 +1,43 @@
+{
+  "id": "9c455d38-fab5-42ec-8d27-fb2d7161b0d3",
+  "parentId": "2e8f331a-c236-48fa-a28c-93adc0388f77",
+  "rootParentId": "2e8f331a-c236-48fa-a28c-93adc0388f77",
+  "name": "Nail Art course duration",
+  "auto": true,
+  "contexts": [
+    "NailArtandExtension-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "NailArtandExtension.NailArtandExtension-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our Nail Art \u0026 Extension courses range in duration, from 1-week basic programs to 3-month comprehensive certifications. For instance, the 3D Nail Art course is shorter, while the full Nail Art and Extension program requires a few weeks.",
+            "The duration of our nail art courses varies. We offer short-term options for basic training that lasts about a week, while more advanced programs in nail extensions and 3D art can take up to 3 months. Are you interested in a particular course duration?",
+            "We have flexible durations for our nail courses, with options like a 1-week introductory course and an extended 3-month certification program. Schedules are available for both weekdays and weekends. Let me know if you’d like more information on a specific course schedule.",
+            "Our nail styling courses are designed to fit different time commitments. Shorter courses in basic nail art can be completed in a week, while advanced training, like the 3D Nail Art program, may take a few weeks to a few months.",
+            "We offer nail courses that range from 1-week introductory sessions to more intensive 3-month programs. There are flexible scheduling options for both weekdays and weekends."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

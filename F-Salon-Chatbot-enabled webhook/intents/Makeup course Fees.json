@@ -1,0 +1,56 @@
+{
+  "id": "0c731ca4-55e3-4778-984d-a669a9f3fda7",
+  "parentId": "755abc28-b9ce-4e5c-9446-ec83b300c53f",
+  "rootParentId": "755abc28-b9ce-4e5c-9446-ec83b300c53f",
+  "name": "Makeup course Fees",
+  "auto": true,
+  "contexts": [
+    "MakeupcourseInquiry-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MakeupcourseInquiry.MakeupcourseInquiry-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our makeup course fees vary by level and duration. For example, the Personal Makeup Artistry course is shorter and more affordable, while the International Master in Ultra Makeup Artistry has a higher fee due to its comprehensive curriculum.",
+            "he cost of our makeup programs depends on the course type. Short courses like the 15-day Personal Makeup Artistry program have different fees than extended programs like the 4-month International Diploma in Advanced Makeup Artistry.",
+            "\"Our makeup courses range in price, from introductory fees for shorter courses like Personal Makeup to higher fees for the 6-month Master’s level in Ultra Makeup Artistry.",
+            "We offer makeup courses at different fee levels based on the duration and curriculum. For example, the Bridal Makeup course is priced differently from the Advanced Makeup Artistry program."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Would you like details on fees for a specific course?",
+            "Are you interested in knowing about a specific course\u0027s fees?",
+            "Let me know if you’d like specifics on any of these courses.",
+            "Which one would you like the fee information on?",
+            "If you have a particular course in mind, I can share the exact fee details."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

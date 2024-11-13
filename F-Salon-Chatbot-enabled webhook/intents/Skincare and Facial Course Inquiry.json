@@ -1,0 +1,55 @@
+{
+  "id": "5cece4a2-4b32-432f-8e9c-d639ab9691d7",
+  "name": "Skincare and Facial Course Inquiry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our Skincare and Facials course includes the following:\n        Course Duration: 2 months\n        Fees: ₹25,000"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Topics Covered:\n   - Skin anatomy and analysis.\n   - Facial techniques for different skin types.\n   - Advanced facial treatments and skincare routines.\n   - Use of modern skincare products and equipment."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Career Opportunities:\n   - Skincare specialist in spas and salons.\n   - Freelance facialist and skincare consultant.\n   - Advanced skincare therapist in beauty clinics."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

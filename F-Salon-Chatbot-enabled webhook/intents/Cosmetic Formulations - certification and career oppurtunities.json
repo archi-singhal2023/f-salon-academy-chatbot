@@ -1,0 +1,43 @@
+{
+  "id": "e47ea11f-4b9f-4e6a-8384-587fedac2508",
+  "parentId": "ce803877-a9bb-4c56-a1ae-1732ec03de86",
+  "rootParentId": "ce803877-a9bb-4c56-a1ae-1732ec03de86",
+  "name": "Cosmetic Formulations - certification and career oppurtunities",
+  "auto": true,
+  "contexts": [
+    "CosmeticFormulations-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CosmeticFormulations.CosmeticFormulations-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes, completing our Cosmetic Formulations course earns you a certification recognized in the beauty and wellness industry. Many graduates go on to work as cosmetic formulators, product developers, or even start their own skincare lines. Would you like guidance on specific career paths?",
+            "Our Cosmetic Formulations courses come with a valuable certification. This can open up career opportunities in roles like cosmetic chemist, skincare product developer, or formulation specialist. Let me know if you\u0027re interested in hearing about specific job roles.",
+            "Our certification in cosmetic formulations is highly regarded in the industry. Graduates often find work in cosmetic labs, as product formulators, or start their own businesses in skincare and personal care products. Do you have a particular career goal in mind?",
+            "Yes, you’ll receive a certification upon completing the Cosmetic Formulations course, which can help you pursue a career in product development, cosmetic research, or as an independent formulator. Let me know if you’d like more information on career options within this field.",
+            "With our certification in cosmetic formulations, you’ll be qualified for roles such as cosmetic chemist, formulation specialist, or product development consultant. Some graduates also launch their own beauty or skincare brands. Interested in exploring a specific career path?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

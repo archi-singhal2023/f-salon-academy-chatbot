@@ -1,0 +1,57 @@
+{
+  "id": "1b3012ff-7532-4505-886c-2c44892380ef",
+  "parentId": "2e8f331a-c236-48fa-a28c-93adc0388f77",
+  "rootParentId": "2e8f331a-c236-48fa-a28c-93adc0388f77",
+  "name": "Nail Art course syllabus",
+  "auto": true,
+  "contexts": [
+    "NailArtandExtension-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "NailArtandExtension.NailArtandExtensionsyllabus",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our Nail Art \u0026 Extension courses cover everything from basic nail shaping to advanced techniques like acrylic and gel extensions, nail sculpting, and 3D art. You’ll also learn about nail care and custom designs.",
+            "The syllabus for our nail art courses includes foundational skills like nail prep and polish, as well as advanced techniques like 3D nail art, gel application, and extensions. We also cover custom designs and nail health.",
+            "In the nail art program, you’ll learn techniques like nail shaping, polish application, gel and acrylic extensions, and 3D designs. Advanced modules include custom artwork and nail care for long-lasting results.",
+            "You’ll gain hands-on skills in various nail techniques, including gel and acrylic extensions, intricate designs, 3D nail art, and care routines. Advanced courses focus on customization and creative styling.",
+            "Our nail styling curriculum is designed to build a strong foundation in nail care, with advanced modules in extensions, sculpting, 3D art, and custom designs. This training also includes nail health and maintenance tips."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Would you like details on a particular technique?",
+            "Let me know if there\u0027s a specific area you’re interested in!",
+            "Would you like more details on any specific modules?",
+            "Interested in learning more about one of these techniques?",
+            "Is there a particular area you’d like to explore?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "bd85a397-45e5-487c-98d3-27141a6d8eca",
+  "parentId": "ce803877-a9bb-4c56-a1ae-1732ec03de86",
+  "rootParentId": "ce803877-a9bb-4c56-a1ae-1732ec03de86",
+  "name": "Cosmetic Formulations course fees",
+  "auto": true,
+  "contexts": [
+    "CosmeticFormulations-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CosmeticFormulations.CosmeticFormulations-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our Cosmetic Formulations course fees vary depending on the level of the program. For example, the Basic Cosmetic Chemistry course has a different fee from the Advanced Formulations program.",
+            "The fees for our Cosmetic Formulations courses depend on the program level and duration. Shorter programs are more affordable, while comprehensive courses in advanced formulations are priced higher.",
+            "Our fee structure is designed to match each program’s depth. The introductory course in Basic Cosmetic Chemistry is priced lower, while the Advanced Formulations course includes more intensive training and has a different fee.",
+            "Our pricing for the Cosmetic Formulations courses ranges from basic level fees for introductory chemistry to more advanced pricing for in-depth formulations training.",
+            "We offer various pricing options based on the program’s complexity. Basic cosmetic chemistry courses are priced affordably, while advanced formulation certifications are priced according to the additional skills covered."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Let me know if you’d like specific fee details for a particular course.",
+            "Let me know if you’re interested in the fees for a specific level of the course.",
+            "Would you like more information on the exact cost of one of these courses?",
+            "Let me know if you’d like specific details on the fee for a particular course.",
+            "Let me know if you’re interested in a specific course fee."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

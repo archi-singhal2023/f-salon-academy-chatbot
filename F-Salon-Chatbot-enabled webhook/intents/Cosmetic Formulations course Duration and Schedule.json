@@ -1,0 +1,50 @@
+{
+  "id": "6b5ba050-ed22-4e6a-af97-5830c6b07518",
+  "parentId": "ce803877-a9bb-4c56-a1ae-1732ec03de86",
+  "rootParentId": "ce803877-a9bb-4c56-a1ae-1732ec03de86",
+  "name": "Cosmetic Formulations course Duration and Schedule",
+  "auto": true,
+  "contexts": [
+    "CosmeticFormulations-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CosmeticFormulations.CosmeticFormulations-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our Cosmetic Formulations courses are typically 1 month in duration, covering both Basic and Advanced levels. We offer flexible scheduling options, including weekday and weekend classes. Let me know if you’d like specific timing details for a particular course.",
+            "The duration for our Cosmetic Formulations courses is generally 1 month, whether you’re taking the basic or advanced program. We have flexible class schedules to accommodate both weekday and weekend availability.  Are you interested in a specific schedule?",
+            "Our cosmetic formulation programs are designed to be completed in 1 month, with classes available on both weekdays and weekends. This structure allows you to balance the course with other commitments. Let me know if you’d like details on a specific timing. . Would you like more details on the schedule for one of these courses?",
+            "Each level of our Cosmetic Formulations course—basic and advanced—is structured as a 1-month program. We offer flexible class timings, including options for weekend sessions.",
+            "Our courses in Cosmetic Formulations are structured for 1-month completion, with scheduling options that include both weekdays and weekends. This makes it easier to choose a time that works best for you. Interested in a specific course schedule?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

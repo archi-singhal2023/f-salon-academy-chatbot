@@ -1,0 +1,57 @@
+{
+  "id": "bd97bdee-5ab2-4731-aef6-0e38e57b45e8",
+  "parentId": "2e8f331a-c236-48fa-a28c-93adc0388f77",
+  "rootParentId": "2e8f331a-c236-48fa-a28c-93adc0388f77",
+  "name": "Nail Art certification and career opportunities",
+  "auto": true,
+  "contexts": [
+    "NailArtandExtension-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "NailArtandExtension.NailArtandExtension-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes, all our Nail Art \u0026 Extension courses come with a certification that is widely recognized in the beauty industry. Many graduates go on to work as professional nail artists in salons or start their own businesses specializing in nail art and extensions.",
+            "Upon completing any of our nail art programs, you will receive a certification. This certification can open up career options such as a nail artist, nail technician, or even a salon manager.",
+            "Our nail art certifications are well-regarded in the industry. Graduates often work in salons or nail bars, freelance as nail artists, or open their own studios. With advanced certifications, you can even specialize in unique areas like 3D nail art or custom designs.",
+            "Yes, our Nail Art \u0026 Extension courses come with a certification that can help you pursue a career in beauty and wellness. Many graduates work as nail artists, stylists in salons, or start their own nail business.",
+            "Our certification in nail art and extensions is highly valued and qualifies you for a range of roles, from salon nail artist to independent nail technician. Some graduates even go on to become nail educators or open their own nail studios."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Would you like guidance on specific career paths?",
+            "Let me know if you\u0027re interested in hearing about specific job roles.",
+            "Do you have a particular career goal in mind?",
+            "Let me know if you’d like more details on career options within nail styling.",
+            "Interested in exploring a specific career path?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

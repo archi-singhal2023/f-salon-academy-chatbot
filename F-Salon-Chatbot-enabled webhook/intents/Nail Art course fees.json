@@ -1,0 +1,72 @@
+{
+  "id": "40fd9d47-6040-4fbe-b0b1-24fda157b49f",
+  "parentId": "2e8f331a-c236-48fa-a28c-93adc0388f77",
+  "rootParentId": "2e8f331a-c236-48fa-a28c-93adc0388f77",
+  "name": "Nail Art course fees",
+  "auto": true,
+  "contexts": [
+    "NailArtandExtension-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "NailArtandExtension.NailArtandExtensioncoursefees",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8d091c65-2d1f-4888-969a-48a567bf9284",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our Nail Art \u0026 Extension course fees vary depending on the level and duration of the program. For example, the 3D Nail Art course has a different fee from the full Nail Art and Extension certification.",
+            "The cost of our nail styling courses depends on the techniques and program length. Shorter courses, like Basic Nail Art, are more affordable, while advanced courses in 3D Nail Art and Extensions are priced higher.",
+            "We offer a range of pricing options for nail courses. For instance, the Nail Art and Extension course is designed for a comprehensive experience, and 3D Nail Art training has its own fee structure.",
+            "Our nail courses have a structured fee range, from introductory rates for short-term courses to advanced fees for intensive training like the 3D Nail Art course.",
+            "We offer various fee options tailored to each nail art course. Basic courses are priced lower, while advanced certifications in 3D Nail Art and Extensions come at a different rate."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Let me know if you’d like specific fee details for a particular course.",
+            "Let me know if you’d like details on fees for a specific program.",
+            "Would you like more information on a specific course fee?",
+            "Let me know if you’re interested in fee details for a particular level.",
+            "Let me know if you’d like the exact fee for a specific course."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

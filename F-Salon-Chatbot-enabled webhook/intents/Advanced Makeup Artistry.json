@@ -1,0 +1,46 @@
+{
+  "id": "2ec08cf8-5e32-477d-8a3c-dcef4bc53a59",
+  "parentId": "755abc28-b9ce-4e5c-9446-ec83b300c53f",
+  "rootParentId": "755abc28-b9ce-4e5c-9446-ec83b300c53f",
+  "name": "Advanced Makeup Artistry",
+  "auto": true,
+  "contexts": [
+    "MakeupcourseInquiry-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "MakeupcourseInquiry.MakeupcourseInquiry-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The Advanced Makeup Artistry course is a 2-month program focused on mastering advanced techniques like contouring, creative eye looks, and special effects. Would you like to know about the fees or schedule?",
+            "Our Advanced Makeup course covers everything from high-definition makeup techniques to bridal and editorial styles. It’s perfect for refining your skills. Interested in more details on certification?",
+            "This program dives deep into advanced makeup techniques, including airbrush, contouring, and creative eye looks. The course duration is 2 months. Would you like to hear about the timings or fees?",
+            "In this course, you’ll learn professional techniques like high-definition makeup, bridal styles, and editorial makeup. Let me know if you want to explore the schedule or fees.",
+            "The syllabus includes advanced topics like contouring, airbrush makeup, and special effects. It’s ideal for those looking to specialize in makeup artistry. Would you like information on class timings?",
+            "You’ll gain hands-on experience with advanced techniques, including creative eye looks and high-definition makeup. Interested in hearing more about career opportunities after this course?",
+            "This course covers advanced techniques, perfect for those who want to refine their skills in bridal, editorial, and special effects makeup. Would you like more details on certification?\"",
+            "The Advanced Makeup Artistry course is ideal for those wanting to elevate their makeup skills. It’s a comprehensive 2-month program. Need details on the fees or schedule?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

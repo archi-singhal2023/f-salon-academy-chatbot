@@ -1,0 +1,80 @@
+[
+  {
+    "id": "bdea82a1-1f80-4aa3-9c34-fdbed345ff68",
+    "data": [
+      {
+        "text": "Yes, I\u0027m interested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "275ee745-8662-4b27-961a-d470b14900a1",
+    "data": [
+      {
+        "text": "Absolutely",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99c3cc82-5d14-4bb7-8bb6-c6a6061f6877",
+    "data": [
+      {
+        "text": "Please share more details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7ae226f-6bae-4db4-8a58-1b8b5eafe81f",
+    "data": [
+      {
+        "text": "I would like that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1a00d72-bb67-4125-bdd5-43a78bd782c2",
+    "data": [
+      {
+        "text": "Sure",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c857526-43ad-451b-992f-2f20cbc6abe9",
+    "data": [
+      {
+        "text": "Yes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

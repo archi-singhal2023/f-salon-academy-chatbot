@@ -1,0 +1,38 @@
+{
+  "id": "343cd877-5efb-4383-9bda-90bbfd5ae52d",
+  "name": "Yes intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great! Please let me know the name of the course you’re interested in, and I’ll provide you with more details.",
+            "Awesome! Tell me which course you’d like to know about, and I’ll be happy to share the specifics.",
+            "Sure! Which course would you like more information on?",
+            "Sure thing! Just let me know which course you’re interested in, and I’ll give you the information."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

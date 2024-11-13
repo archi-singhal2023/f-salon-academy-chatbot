@@ -1,0 +1,38 @@
+{
+  "id": "d449f2a5-49db-4056-a253-1cd3f7fd3f19",
+  "name": "Closing Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You’re welcome! If you have more questions later, feel free to come back. Have a great day!",
+            "Glad to help! Don’t hesitate to reach out if you’d like more information in the future. Good luck with your studies!",
+            "Happy to assist! Feel free to return anytime if you have more questions. Good luck with your journey at F Salon Academy!",
+            "Thank you for reaching out! Best of luck with your course selection. We’re here if you need further assistance."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

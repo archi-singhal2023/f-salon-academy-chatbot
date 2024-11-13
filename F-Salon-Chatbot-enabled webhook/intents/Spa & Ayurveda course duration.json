@@ -1,0 +1,43 @@
+{
+  "id": "f08e2714-1f58-494d-aba1-912d7dc398da",
+  "parentId": "83409458-e1e5-4925-97ed-68eeaac17f84",
+  "rootParentId": "83409458-e1e5-4925-97ed-68eeaac17f84",
+  "name": "Spa \u0026 Ayurveda course duration",
+  "auto": true,
+  "contexts": [
+    "SpaAyurvedaTherapies-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SpaAyurvedaTherapies.SpaAyurvedaTherapiesduration",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our Spa \u0026 Ayurveda courses vary in duration, from short 2-week programs to comprehensive 3-month certifications. For example, Ayurveda Therapy courses are shorter, while Spa Management certification is more extensive. Would you like details on the schedule for a specific course?",
+            "The duration of our Spa \u0026 Ayurveda courses depends on the program. We offer flexible options, with short-term Ayurveda therapy sessions lasting 2 weeks, while the International Certificate in Spa Management spans 1 to 3 months. Are you interested in a specific program’s duration?",
+            "Our spa courses are designed to fit different time commitments, from 2-week courses in Ayurveda to 3-month spa management certifications. We also offer both weekday and weekend schedules to accommodate your needs. Let me know if you’d like specific timing details for a course.",
+            "Our Spa \u0026 Ayurveda Therapy programs range in duration to suit different schedules. You can complete shorter courses like Ayurveda Therapy in a few weeks, while more in-depth programs like Spa Management require a few months. Interested in a particular course schedule?",
+            "We offer a variety of course durations, from 2-week Ayurveda sessions to 3-month certifications in spa management. Schedules are flexible with options for both weekday and weekend classes. Let me know if you’d like details on a specific course’s timing."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

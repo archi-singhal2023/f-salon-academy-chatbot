@@ -1,0 +1,43 @@
+{
+  "id": "d5a2e7b4-7da8-468d-9108-11402bb21915",
+  "name": "No intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "No problem! If you have more questions in the future, feel free to reach out. Good luck with your studies!",
+            "Got it! Thanks for chatting with us. Let us know if you need more assistance anytime.",
+            "Got it! I hope I was able to answer your questions. Feel free to check back anytime. Have a great day ahead!",
+            "Sure thing! Thanks for chatting with me. If you ever want to know more, I’ll be right here to assist.",
+            "No problem! It was a pleasure helping you out. Good luck, and don’t hesitate to ask if you need anything else!",
+            "Alright, I’m glad I could assist. Best of luck with your studies, and I’m here if you need any more help down the road!",
+            "No worries! If you need any more information in the future, just let me know. Best of luck with your course selection!",
+            "Alright, I hope I was able to assist you. Don’t hesitate to ask if you have more queries in the future. Take care!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "fea2ecf4-e4ba-4d37-b78a-baa050f3f682",
+    "data": [
+      {
+        "text": "I don\u0027t have any more questions.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24c0b200-c0e1-4c73-a6d3-0dcb6c9e2167",
+    "data": [
+      {
+        "text": "That\u0027s it for now.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "103f6d52-aa4a-4ed9-b992-a916b89f43e4",
+    "data": [
+      {
+        "text": "I\u0027m good, thanks.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c824a5a-b992-41a0-b370-db326bf6624f",
+    "data": [
+      {
+        "text": "That was helpful, thank you.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "900b8fd0-0775-4c9d-94de-6e9994c1650d",
+    "data": [
+      {
+        "text": "No more questions, thanks!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52f607a9-3b2e-42bb-a6e7-03ae1b00f23d",
+    "data": [
+      {
+        "text": "Thank you, that\u0027s all for now.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

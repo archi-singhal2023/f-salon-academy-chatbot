@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ea02c05e-4976-4ca6-afae-a06c5de482cc",
+    "data": [
+      {
+        "text": "Will I get a certificate after completing this course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1251e7c0-fb49-4f08-bd92-46a06385f797",
+    "data": [
+      {
+        "text": "What is the fee structure?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ba9fd14-78d1-4f31-953e-cd6e22d014d2",
+    "data": [
+      {
+        "text": "Can you tell me about the class timings?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48950fcf-c653-45ce-a65b-e24f3be81b99",
+    "data": [
+      {
+        "text": "What\u0027s the syllabus for this course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

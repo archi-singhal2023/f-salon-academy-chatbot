@@ -1,0 +1,43 @@
+{
+  "id": "9bfcf2e7-4ed6-4b1d-8bc3-d2fe9660996d",
+  "parentId": "83409458-e1e5-4925-97ed-68eeaac17f84",
+  "rootParentId": "83409458-e1e5-4925-97ed-68eeaac17f84",
+  "name": "Spa \u0026 Ayurveda certification and career opportunities",
+  "auto": true,
+  "contexts": [
+    "SpaAyurvedaTherapies-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SpaAyurvedaTherapies.SpaAyurvedaTherapies-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes, completing our Spa \u0026 Ayurveda Therapy courses will earn you a certification recognized in the wellness industry. Many graduates go on to become spa therapists, wellness consultants, or Ayurvedic specialists. Would you like to discuss specific career options?",
+            "Upon completing any of our Spa \u0026 Ayurveda Therapy programs, you’ll receive a certification that is highly regarded in the field. This can open up roles as a spa therapist, wellness advisor, or Ayurvedic therapist. Let me know if you\u0027re interested in exploring particular job roles.",
+            "Our spa and wellness certifications are widely recognized. Graduates often work in luxury spas, wellness centers, or even start their own practices. With advanced certification, you could pursue roles like spa manager or Ayurvedic consultant. Do you have a specific career goal in mind?",
+            "Yes, all our Spa \u0026 Ayurveda Therapy courses come with certification, which can help you launch a career in wellness. Popular roles include spa therapist, Ayurveda specialist, and wellness consultant. Let me know if you’re interested in learning more about any of these paths!",
+            "The certification from our Spa \u0026 Ayurveda Therapy courses is highly valued, allowing you to work as a spa therapist, wellness consultant, or even manage spa services. If you’re interested in a particular career path within wellness, I’d be happy to provide more details!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

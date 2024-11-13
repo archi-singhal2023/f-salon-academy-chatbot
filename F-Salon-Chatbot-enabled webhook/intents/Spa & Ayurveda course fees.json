@@ -1,0 +1,57 @@
+{
+  "id": "6b79190b-4b3f-4cbf-af8d-f0517c64aceb",
+  "parentId": "83409458-e1e5-4925-97ed-68eeaac17f84",
+  "rootParentId": "83409458-e1e5-4925-97ed-68eeaac17f84",
+  "name": "Spa \u0026 Ayurveda course fees",
+  "auto": true,
+  "contexts": [
+    "SpaAyurvedaTherapies-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "SpaAyurvedaTherapies.SpaAyurvedaTherapies-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The fees for our Spa \u0026 Ayurveda programs depend on the course type. Shorter programs in Ayurveda therapies are priced lower, while comprehensive spa management certifications are priced higher.",
+            "We offer various fee options for each Spa \u0026 Ayurveda course. Programs like Ayurvedic therapy sessions are generally lower in cost, while advanced courses like the International Spa Management certificate come at a different rate.",
+            "The cost of our Spa \u0026 Ayurveda courses depends on the curriculum and duration. Shorter courses in spa therapies have lower fees, while the International Certificate in Spa Management is more comprehensive and has a higher fee.",
+            "Our fee structure for Spa \u0026 Ayurveda Therapy courses is tailored to each program. For example, introductory Ayurveda courses are more economical, while advanced spa management programs require a higher investment.",
+            "Our Spa \u0026 Ayurveda Therapy course fees vary based on the duration and specialization. For instance, the International Certificate in Spa Management and the Ayurveda Therapy programs each have different fee."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Would you like details on the fee for a specific course?",
+            "Let me know if you’re interested in fees for a particular course.",
+            "Would you like specific details on one of these?",
+            "Let me know if you need details on any specific course fees.",
+            "Would you like more information on a particular course’s fees?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

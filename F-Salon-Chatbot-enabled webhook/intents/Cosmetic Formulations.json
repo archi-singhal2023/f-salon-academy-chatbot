@@ -1,0 +1,69 @@
+{
+  "id": "ce803877-a9bb-4c56-a1ae-1732ec03de86",
+  "name": "Cosmetic Formulations",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "CosmeticFormulations-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "At F Salon Academy, we offer a variety of courses in Cosmetic Formulations, including:",
+            "Our cosmetic formulation programs include:",
+            "At F Salon Academy, you can find:",
+            "We offer exciting courses in cosmetic formulations, such as:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1. Basic Cosmetic Chemistry (1 month) for those new to the field.",
+            "1. Basic Cosmetic Chemistry (1 month) to learn the foundations of creating cosmetics.",
+            "1. Basic Cosmetic Chemistry (1 month) for a solid introduction to the world of cosmetics.",
+            "1. Basic Cosmetic Chemistry (1 month) for beginners to learn the essentials of product formulation."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "2. Advanced Cosmetic Chemistry (1 month) for those looking to deepen their knowledge. Would you like to know more about a specific course?",
+            "2. Advanced Cosmetic Chemistry (1 month) for advanced techniques and formulation skills. Interested in exploring one of these courses in detail?",
+            "2. Advanced Cosmetic Chemistry (1 month) for those seeking in-depth formulation knowledge. Let me know if you want to dive deeper into a specific program!",
+            "2. Advanced Cosmetic Chemistry (1 month) for professionals aiming to enhance their expertise. Which course would you like to discuss?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

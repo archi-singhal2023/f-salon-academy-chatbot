@@ -1,0 +1,57 @@
+{
+  "id": "7b02ab02-a6ab-42ff-84b0-e7824d0b3e2f",
+  "parentId": "4e63b7d3-8c32-4478-9115-44f9af1d80ad",
+  "rootParentId": "4e63b7d3-8c32-4478-9115-44f9af1d80ad",
+  "name": "Hair styling course fees",
+  "auto": true,
+  "contexts": [
+    "HairstylingandTechnology-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HairstylingandTechnology.HairstylingandTechnology-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our hair styling course fees vary by program level and duration. For instance, shorter courses like Hair Styling and Designing are more affordable, while advanced courses like the International Master in Ultra Hair Technology have a higher fee.",
+            "The cost of our hair technology programs depends on the course type and duration. Basic hair styling courses are priced lower, while intensive programs in advanced styling and creative cuts come at a different rate.",
+            "Our pricing structure offers options for all levels. Short-term hair styling courses are more budget-friendly, while advanced courses like the 8-month Master in Hair Technology have higher fees.",
+            "Our hair technology programs range in price based on their depth and duration. For example, introductory courses are more economical, while advanced certifications like the Master’s level program are priced higher.",
+            "We offer a range of pricing options depending on the course. Basic courses like Hair Styling and Designing are budget-friendly, while advanced courses in hair coloring and creative styling have different rates."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Would you like details on a specific course fee?",
+            "Let me know if you\u0027re interested in fees for a particular course!",
+            "Are you interested in learning about the fee for a specific level?",
+            "Let me know which course fees you’d like more details on!",
+            "Would you like information on a particular course’s fees?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
