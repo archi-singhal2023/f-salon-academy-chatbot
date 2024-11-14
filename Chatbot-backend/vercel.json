@@ -3,13 +3,14 @@
     "builds": [
         {
             "src": "Chatbot-backend/main.py",
-            "use": "@vercel/python",
-            "config": {
-                "maxLambdaSize": "15mb"
-            }
+            "use": "@vercel/python"
         }
     ],
     "routes": [
+        {
+            "src": "/webhook",
+            "dest": "Chatbot-backend/main.py"
+        },
         {
             "src": "/(.*)",
             "dest": "Chatbot-backend/main.py"
