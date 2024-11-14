@@ -19,10 +19,9 @@ async def dialogflow_webhook(request: Request):
     }
     
 @app.get("/")
-def read_root():
+async def read_root():
     return {"message": "FastAPI server is running. Welcome to the F Salon Academy backend!"}
 
 
-if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+
 
