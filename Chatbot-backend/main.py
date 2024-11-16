@@ -32,6 +32,11 @@ async def dialogflow_webhook(request: Request):
 async def read_root():
     return {"message": "FastAPI server is running. Welcome to the F Salon Academy backend!"}
 
+@app.get("/favicon.ico")
+async def favicon():
+    return {"message": "No favicon available"}
+
+
 if __name__ == "__main__":
     uvicorn.run(app, host="0.0.0.0", port=8000)
 
