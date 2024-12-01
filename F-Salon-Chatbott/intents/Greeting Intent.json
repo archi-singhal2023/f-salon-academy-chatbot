@@ -1,0 +1,43 @@
+{
+  "id": "cc4fa5ff-558a-489e-87ff-9c85a0149465",
+  "name": "Greeting Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "At F Salon Academy, we have courses ranging from Personal and Advanced Makeup Artistry to Hair Styling and Beauty Science. Whether you’re into creative makeup or spa therapies, we have something for everyone. Which course are you interested in:\n1. Makeup Artistry (Basic, Bridal, Advanced)\n2. Beauty Science \u0026 Skincare\n3. Hair Styling and Technology\n4. Spa \u0026 Ayurveda Therapies\n6. Cosmo Tech",
+            "You’ve come to the right place to enhance your beauty skills. We offer multiple courses:\n1. Makeup Artistry (Basic, Bridal, Advanced)\n2. Beauty Science \u0026 Skincare\n3. Hair Styling and Technology\n4. Spa \u0026 Ayurveda Therapies\n6. Cosmo Tech\nFeel free to ask about any course you’re interested in.",
+            "Our Academy provides expert-led courses in various fields:\n1. Makeup Artistry (Basic, Bridal, Advanced)\n2. Beauty Science \u0026 Skincare\n3. Hair Styling and Technology\n4. Spa \u0026 Ayurveda Therapies\n6. Cosmo Tech\nWould you like to know more about a specific course?",
+            "We offer courses from bridal makeup to advanced hair technology and spa therapies. I can guide you through any of our programs:\n1. Makeup Artistry (Basic, Bridal, Advanced)\n2. Beauty Science \u0026 Skincare\n3. Hair Styling and Technology\n4. Spa \u0026 Ayurveda Therapies\n6. Cosmo Tech",
+            "Let\u0027s dive into the world of beauty and wellness! We’ve got the perfect courses for you at F Salon Academy. Let\u0027s explore on it:\n1. Makeup Artistry (Basic, Bridal, Advanced)\n2. Beauty Science \u0026 Skincare\n3. Hair Styling and Technology\n4. Spa \u0026 Ayurveda Therapies\n6. Cosmo Tech\n\nLooking for more details on any course?",
+            "You’re just one step away from finding the perfect beauty course. F Salon Academy has you covered on the following courses:\n1. Makeup Artistry (Basic, Bridal, Advanced)\n2. Beauty Science \u0026 Skincare\n3. Hair Styling and Technology\n4. Spa \u0026 Ayurveda Therapies\n6. Cosmo Tech\n\nWhich course sparks your interest?",
+            "Whether you\u0027re into makeup, hair, skincare, or wellness, we’ve got a course that fits your passion at F Salon Academy. Want to discover your next step in beauty? Let’s dive into the details! \nWe provide:\n1. Makeup Artistry (Basic, Bridal, Advanced)\n2. Beauty Science \u0026 Skincare\n3. Hair Styling and Technology\n4. Spa \u0026 Ayurveda Therapies\n6. Cosmo Tech\n\nLet me know what interests you.",
+            "It’s great to see you here. We offer a range of courses that could turn your passion into expertise. What would you like to explore today:\n1. Makeup Artistry (Basic, Bridal, Advanced)\n2. Beauty Science \u0026 Skincare\n3. Hair Styling and Technology\n4. Spa \u0026 Ayurveda Therapies\n6. Cosmo Tech",
+            "Are you ready to take your beauty skills to the next level? F Salon Academy offers top-notch courses in everything from skincare to creative haircuts. Let me know which course you’re curious about! \nWe provide:\n1. Makeup Artistry (Basic, Bridal, Advanced)\n2. Beauty Science \u0026 Skincare\n3. Hair Styling and Technology\n4. Spa \u0026 Ayurveda Therapies\n6. Cosmo Tech"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

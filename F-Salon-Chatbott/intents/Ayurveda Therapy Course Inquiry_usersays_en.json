@@ -1,0 +1,113 @@
+[
+  {
+    "id": "ab00d642-51ac-49c5-ae02-6ab82e68160c",
+    "data": [
+      {
+        "text": "Ayurveda Therapies",
+        "meta": "@ayurvedatherapy",
+        "alias": "ayurvedatherapy",
+        "userDefined": true
+      },
+      {
+        "text": " (2 weeks to 1 month)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2627594f-d9ab-4773-a780-9d66d8a8cde7",
+    "data": [
+      {
+        "text": "What will I learn in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Ayurveda Therapy",
+        "meta": "@ayurvedatherapy",
+        "alias": "ayurvedatherapy",
+        "userDefined": true
+      },
+      {
+        "text": " course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fbbc232-c80a-44db-ac58-be83a570db18",
+    "data": [
+      {
+        "text": "I want to learn about ",
+        "userDefined": false
+      },
+      {
+        "text": "Ayurvedic",
+        "meta": "@ayurvedatherapy",
+        "alias": "ayurvedatherapy",
+        "userDefined": true
+      },
+      {
+        "text": " treatments.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3490c409-30f2-4c8f-ac76-f10d3db69b9b",
+    "data": [
+      {
+        "text": "What does the ",
+        "userDefined": false
+      },
+      {
+        "text": "Ayurveda Therapy",
+        "meta": "@ayurvedatherapy",
+        "alias": "ayurvedatherapy",
+        "userDefined": true
+      },
+      {
+        "text": " course include?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22e0bc5e-fcfa-4931-9114-459eab39508e",
+    "data": [
+      {
+        "text": "Tell me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Ayurveda Therapy",
+        "meta": "@ayurvedatherapy",
+        "alias": "ayurvedatherapy",
+        "userDefined": true
+      },
+      {
+        "text": " course.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

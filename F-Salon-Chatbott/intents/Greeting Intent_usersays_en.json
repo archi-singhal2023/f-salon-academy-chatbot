@@ -1,0 +1,119 @@
+[
+  {
+    "id": "1411aa32-5229-4b92-88c2-707f61afca64",
+    "data": [
+      {
+        "text": "Tell me about your courses.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6cbcce6-3a97-4d42-a12f-a629d27149ae",
+    "data": [
+      {
+        "text": "hy, what courses do you offer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9954e4bd-110f-4342-b8e6-0ef617f94166",
+    "data": [
+      {
+        "text": "heyyy! Can I know the courses provided by the academy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91304220-4cfc-435f-9c93-189b4e7bd118",
+    "data": [
+      {
+        "text": "Hi, can you guide me on the courses provided by the academy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70ec4be1-03ee-46b9-ae10-2013a4594ee9",
+    "data": [
+      {
+        "text": "Hello, needed guidance regarding courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37c44c1a-dc25-48da-b372-9600227d94e7",
+    "data": [
+      {
+        "text": "Can you tell me about the courses available at F Salon Academy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5780dd6e-ad7d-4631-acb5-ccd04d00ba38",
+    "data": [
+      {
+        "text": "Hey, I need Information on courses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "619af387-4ae7-4f54-815a-156f18b5637d",
+    "data": [
+      {
+        "text": "hello hi. Do you have any beauty-related training programs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6da2ce11-a099-484b-9091-8b1abdc60eea",
+    "data": [
+      {
+        "text": "hi there. Can you guide me on the courses you provide?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

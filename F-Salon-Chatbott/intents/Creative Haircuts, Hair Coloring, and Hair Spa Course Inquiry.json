@@ -1,0 +1,70 @@
+{
+  "id": "373529c2-db06-48f2-bf35-89310ff3c4c1",
+  "name": "Creative Haircuts, Hair Coloring, and Hair Spa Course Inquiry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e1273d03-4085-4387-b2fe-e9c09daccf63",
+          "name": "creative-hair",
+          "required": false,
+          "dataType": "@creative-hair",
+          "value": "$creative-hair",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our Creative Haircuts, Hair Coloring, and Hair Spa course includes the following:\n        Course Duration: 2 months\n        Fees: ₹30,000"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Topics Covered:\n   - Creative haircutting techniques for all hair types.\n   - Hair coloring methods including balayage and ombre.\n   - Advanced hair spa treatments for scalp and hair health.\n   - Hair care and styling for different events and occasions."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Career Opportunities:\n   - Creative hair stylist in fashion salons.\n   - Freelance stylist for fashion shows and photo shoots.\n   - Hair spa expert in wellness centers."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "eb2fcf03-491e-4f12-a640-a330378ba67a",
+  "name": "3D Nail Art",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2d26d5a1-7b68-46ab-9d9f-e95b2ea4737d",
+          "name": "nail3d",
+          "required": false,
+          "dataType": "@nail3d",
+          "value": "$nail3d",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our 3D Nail Art course is a 15-day program focused on advanced techniques like sculpting, custom designs, and gel applications. Would you like details on the fees or schedule?",
+            "The 3D Nail Art course includes intricate designs, gel and acrylic techniques, and custom sculpting. It’s ideal for enhancing your skills in professional nail styling. Need more details on the class timings?",
+            "This course covers advanced 3D techniques, including nail sculpting and intricate designs. It’s a short-term program lasting 15 days. Interested in learning about the fees?",
+            "In our 3D Nail Art course, you’ll master techniques like gel application, sculpting, and custom designs. Would you like more information on certification or class timings?",
+            "The 3D Nail Art program focuses on creating unique, three-dimensional designs. It’s perfect for those looking to specialize in creative nail styling. Let me know if you want to know about the fees or duration.",
+            "You’ll gain hands-on experience with 3D designs, gel techniques, and intricate nail art. The course lasts 15 days. Interested in hearing about the schedule?",
+            "This short-term program is designed to teach advanced 3D nail art techniques. It’s great for nail artists who want to elevate their skills. Need more details on class availability?",
+            "Our 3D Nail Art training is a specialized course focused on advanced design techniques. It’s a 15-day intensive program. Would you like to know about the fees?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

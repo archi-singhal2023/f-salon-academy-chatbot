@@ -1,0 +1,9 @@
+{
+  "id": "145a1d65-2b85-4180-9de2-67f317903b12",
+  "name": "facial-skincare",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

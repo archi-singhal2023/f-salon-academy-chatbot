@@ -1,0 +1,57 @@
+{
+  "id": "2e8f331a-c236-48fa-a28c-93adc0388f77",
+  "name": "Nail Art and Extension",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "NailArtandExtension-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our Nail Art \u0026 Extenso courses are perfect for anyone looking to master this creative and intricate art form. Here\u0027s what we offer:\n\n1. Universal Certificate in Nail Art \u0026 Extenso – 1 week\n2. International Certificate in 3D Color Nail Art – 15 days\n3. International Certificate in Nail Art \u0026 Extenso – 1 month\n4. International Diploma in Advanced Nail Art \u0026 Extenso – 2 months\n5. International Graduate in Advanced Nail Art \u0026 Extenso – 2 months + 15 days\n6. International Master in Ultra Nail Art \u0026 Extenso – 3 months",
+            "Unlock your creativity with our Nail Art \u0026 Extenso courses! Here’s a quick overview:\n\n1. Universal Certificate in Nail Art \u0026 Extenso (1 week)\n2. International Certificate in 3D Color Nail Art  (15 days)\n3. International Certificate in Nail Art \u0026 Extenso  (1 month)\n4. International Diploma in Advanced Nail Art \u0026 Extenso  (2 months)\n5. International Graduate in Advanced Nail Art \u0026 Extenso  (2 months + 15 days)\n6. International Master in Ultra Nail Art \u0026 Extenso   (3 months)",
+            "Looking to enhance your skills in Nail Art \u0026 Extenso? We’ve got the perfect courses for you:\n\nShort-Term Programs:\n\n1. Universal Certificate in Nail Art \u0026 Extenso – 1 week\n2. International Certificate in 3D Color Nail Art – 15 days\n3. International Certificate in Nail Art \u0026 Extenso – 1 month\n\nAdvanced Programs:\n\n4. International Diploma in Advanced Nail Art \u0026 Extenso – 2 months\n5. International Graduate in Advanced Nail Art \u0026 Extenso – 2 months + 15 days\n6. International Master in Ultra Nail Art \u0026 Extenso – 3 months",
+            "Whether you’re a beginner or looking to refine your expertise, our Nail Art \u0026 Extenso courses have something for everyone:\n\n1.  Universal Certificate in Nail Art \u0026 Extenso – 1 week (great for beginners!)\n2.  International Certificate in 3D Color Nail Art – 15 days (focused on advanced designs)\n3.  International Certificate in Nail Art \u0026 Extenso – 1 month (comprehensive training)\n4.  International Diploma in Advanced Nail Art \u0026 Extenso – 2 months (detailed techniques)\n5.  International Graduate in Advanced Nail Art \u0026 Extenso – 2 months + 15 days (next-level skills)\n6.  International Master in Ultra Nail Art \u0026 Extenso – 3 months (expert-level training)"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What interests you the most? Let’s find the right course for your goals!",
+            "Would you like to learn about career prospects or enrollment procedures?",
+            "Which course suits your goals? I’d be happy to share more information!",
+            "Would you like to explore the curriculum, fees, or class schedules?",
+            "Which course interests you the most? I’d love to help you with more details or assist you with enrollment."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

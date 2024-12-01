@@ -1,0 +1,94 @@
+[
+  {
+    "id": "a1f838c8-e61d-4c61-b025-7ca7f700ef94",
+    "data": [
+      {
+        "text": "What\u0027s included in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Lash Extension",
+        "meta": "@eyebrow-and-lash",
+        "alias": "eyebrow-and-lash",
+        "userDefined": true
+      },
+      {
+        "text": " course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8927b785-2a52-42bd-80d5-ee6182eb3a40",
+    "data": [
+      {
+        "text": "Can you give me details on ",
+        "userDefined": false
+      },
+      {
+        "text": "Eyebrow and Lash",
+        "meta": "@eyebrow-and-lash",
+        "alias": "eyebrow-and-lash",
+        "userDefined": true
+      },
+      {
+        "text": " Extension?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13d3158e-5630-4e52-ae85-10792afcadfe",
+    "data": [
+      {
+        "text": "What does the ",
+        "userDefined": false
+      },
+      {
+        "text": "Eyebrow and Lash Extension",
+        "meta": "@eyebrow-and-lash",
+        "alias": "eyebrow-and-lash",
+        "userDefined": true
+      },
+      {
+        "text": " course cover?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32726e16-4c1d-4c47-beb4-118e16df5843",
+    "data": [
+      {
+        "text": "Tell me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Permanent Eyebrow and Lash Extension",
+        "meta": "@eyebrow-and-lash",
+        "alias": "eyebrow-and-lash",
+        "userDefined": true
+      },
+      {
+        "text": " course.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

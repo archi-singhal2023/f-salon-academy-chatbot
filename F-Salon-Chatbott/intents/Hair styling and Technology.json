@@ -1,0 +1,68 @@
+{
+  "id": "4e63b7d3-8c32-4478-9115-44f9af1d80ad",
+  "name": "Hair styling and Technology",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "HairstylingandTechnology-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We offer a range of hair courses tailored to your learning needs. Here\u0027s a quick overview:\n\nShort-Term Hair Courses:\n\n1. Universal Certificate in Hair Techno: 10 days\n2. International Certificate in Hair Designing: 20 days\n3. International Certificate in Chemical Treatments: 1 month\n4. International Certificate in Creative Hair Cuts: 1 month\n5. International Certificate in Volumizing Techniques: 1 month\n6. International Certificate in Hair Extension: 2 months\n7. International Certificate in 3D Hair Color Techno: 2 months",
+            "Looking to enhance your skills in hair styling and treatments? We offer:\n\nShort-Term Hair Courses:\n\n1. Universal Certificate in Hair Techno: 10 days\n2. International Certificate in Hair Designing: 20 days\n3. International Certificate in Chemical Treatments: 1 month\n4. International Certificate in Creative Hair Cuts: 1 month\n5. International Certificate in Volumizing Techniques: 1 month\n6. International Certificate in Hair Extension: 2 months\n7. International Certificate in 3D Hair Color Techno: 2 months",
+            "Our hair courses are designed to cover everything from foundational techniques to advanced skills. Here’s the complete list:\n\nShort-Term Hair Courses:\n\n1. Universal Certificate in Hair Techno: 10 days\n2. International Certificate in Hair Designing: 20 days\n3. International Certificate in Chemical Treatments: 1 month\n4. International Certificate in Creative Hair Cuts: 1 month\n5. International Certificate in Volumizing Techniques: 1 month\n6. International Certificate in Hair Extension: 2 months\n7. International Certificate in 3D Hair Color Techno: 2 months",
+            "Excited to learn hair styling and technology? We’ve got the perfect courses for you:\n\nShort-Term Hair Courses:\n\n1. Universal Certificate in Hair Techno: 10 days\n2. International Certificate in Hair Designing: 20 days\n3. International Certificate in Chemical Treatments: 1 month\n4. International Certificate in Creative Hair Cuts: 1 month\n5. International Certificate in Volumizing Techniques: 1 month\n6. International Certificate in Hair Extension: 2 months\n7. International Certificate in 3D Hair Color Techno: 2 months",
+            "We offer a variety of hair courses to suit different career goals and skill levels: \n\nShort-Term Hair Courses:\n\n1. Universal Certificate in Hair Techno: 10 days\n2. International Certificate in Hair Designing: 20 days\n3. International Certificate in Chemical Treatments: 1 month\n4. International Certificate in Creative Hair Cuts: 1 month\n5. International Certificate in Volumizing Techniques: 1 month\n6. International Certificate in Hair Extension: 2 months\n7. International Certificate in 3D Hair Color Techno: 2 months"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Mid-Term Hair Courses:\n\n1. International Certificate in Men’s Hair Cuts \u0026 Designs: 2 months\n2. International Certificate in Hair Techno: 3 months\n3. International Certificate in Advanced Hair Techno: 3 months\n4. International Diploma in Hair Designing: 3 months\n5. International Diploma in Advanced Hair Techno: 6 months\n6. International Graduate in Advanced Hair Techno: 7 months\n7. International Master in Ultra Hair Techno: 8 months"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Would you like to explore a specific course, its curriculum, or career opportunities?",
+            "Which course interests you the most? I’d be happy to share the details or help you enroll!",
+            "Would you like to know more about the curriculum, career prospects, or class schedules for any of these?",
+            "Let me know if you’d like to explore the course structure or fees for any of these programs!",
+            "Which category would you like to explore in more detail?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

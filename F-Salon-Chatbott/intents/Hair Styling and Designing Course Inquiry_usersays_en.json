@@ -1,0 +1,113 @@
+[
+  {
+    "id": "912a27fe-f635-4828-92ee-408d31d7c2d2",
+    "data": [
+      {
+        "text": "hair style and design",
+        "meta": "@hair-style",
+        "alias": "hair-style",
+        "userDefined": true
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "030f9f69-150b-4d14-b786-f1492525feb1",
+    "data": [
+      {
+        "text": "About ",
+        "userDefined": false
+      },
+      {
+        "text": "hair styling",
+        "meta": "@hair-style",
+        "alias": "hair-style",
+        "userDefined": true
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0612a3ef-a816-4c0e-9346-14799a296256",
+    "data": [
+      {
+        "text": "I want to learn ",
+        "userDefined": false
+      },
+      {
+        "text": "hair styling",
+        "meta": "@hair-style",
+        "alias": "hair-style",
+        "userDefined": true
+      },
+      {
+        "text": " techniques.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "298a935d-5ec2-450a-a760-85eb2790adc0",
+    "data": [
+      {
+        "text": "What\u0027s included in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Hair Styling and Designing",
+        "meta": "@hair-style",
+        "alias": "hair-style",
+        "userDefined": true
+      },
+      {
+        "text": " course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "313c64bf-657b-4277-ab36-36dc384c24e6",
+    "data": [
+      {
+        "text": "Tell me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Hair Styling",
+        "meta": "@hair-style",
+        "alias": "hair-style",
+        "userDefined": true
+      },
+      {
+        "text": " course.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "id": "37d99151-1984-40a8-bef7-03fa08b25a26",
+  "name": "Permanent Eyebrow and Lash Extension Course Inquiry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "490cf625-5b89-438b-a383-2aebeba83163",
+          "name": "eyebrow-and-lash",
+          "required": false,
+          "dataType": "@eyebrow-and-lash",
+          "value": "$eyebrow-and-lash",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our Permanent Eyebrow and Lash Extension course includes the following:\n         Course Duration: 15 days\n         Fees: ₹20,000"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Topics Covered:\n   - Techniques for permanent eyebrow enhancement.\n   - Lash extension methods and application.\n   - Care and maintenance of lash and brow extensions."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Career Opportunities:\n   - Eyebrow and lash specialist in beauty salons.\n   - Freelance lash technician.\n   - Eyebrow and lash trainer in beauty institutes."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

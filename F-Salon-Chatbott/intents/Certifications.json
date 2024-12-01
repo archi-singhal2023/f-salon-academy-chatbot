@@ -1,0 +1,52 @@
+{
+  "id": "4402d7e8-c10e-4ef2-bcad-cb943483e258",
+  "name": "Certifications",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Yes, F Salon Academy provides certifications upon successful completion of each course. Our certificates are recognized and respected in the beauty and wellness industry.",
+            "Our certifications are internationally recognized, allowing you to pursue career opportunities worldwide. They validate your skills and expertise in your chosen field.",
+            "We offer various certifications, including diplomas, advanced diplomas, and short-course certificates, depending on the program you enroll in.",
+            "With our certifications, you’ll have a competitive edge in the beauty industry, as they demonstrate your professional training and practical skills.",
+            "Our courses come with accredited certifications that meet industry standards. These certifications can open doors to exciting career opportunities."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Some of our programs also offer government-recognized certifications, providing additional credibility to your qualifications.",
+            "In addition to the certification, our hands-on training ensures that you’re job-ready and confident in applying your skills professionally.",
+            "Depending on the program, you may receive multiple certifications, such as completion certificates and specialization badges.",
+            "If you’re planning to start your own beauty business, our certifications add credibility to your services and build trust with your clients."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

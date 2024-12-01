@@ -1,0 +1,59 @@
+{
+  "id": "ce803877-a9bb-4c56-a1ae-1732ec03de86",
+  "name": "Cosmo Tech",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "CosmeticFormulations-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our Cosmo Tech courses are perfect for anyone looking to excel in the beauty and wellness industry. Here\u0027s what we offer:\n\n1.  Universal Certificate in Cosmo Tech – 4 months\n2.  International Diploma in Cosmo Tech – 6 months\n3.  International Diploma in Advanced Beauty \u0026 Hair – 9 months\n4.  International Diploma in Advanced Cosmo Tech – 11 months\n5.  International Diploma in Ultra Cosmo Tech – 13 months\n6.  International Graduate in Cosmo Tech – 15 months\n7.  International Master in Advanced Cosmo Tech – 18 months\n8.  International Master in Ultra Cosmo Tech – 20 months",
+            "Whether you’re just starting or aiming to master your craft, our Cosmo Tech courses offer something for everyone:\n\n1.  Universal Certificate in Cosmo Tech – 4 months\n2.  International Diploma in Cosmo Tech – 6 months\n3.  International Diploma in Advanced Beauty \u0026 Hair – 9 months\n4.  International Diploma in Advanced Cosmo Tech – 11 months\n5.  International Diploma in Ultra Cosmo Tech – 13 months\n6.  International Graduate in Cosmo Tech – 15 months\n7.  International Master in Advanced Cosmo Tech – 18 months\n8.  International Master in Ultra Cosmo Tech – 20 months",
+            "Looking to build a rewarding career in beauty and cosmetology? Here’s a list of our comprehensive Cosmo Tech courses:\n\n1.  Universal Certificate in Cosmo Tech – 4 months\n2.  International Diploma in Cosmo Tech – 6 months\n3.  International Diploma in Advanced Beauty \u0026 Hair – 9 months\n4.  International Diploma in Advanced Cosmo Tech – 11 months\n5.  International Diploma in Ultra Cosmo Tech – 13 months\n6.  International Graduate in Cosmo Tech – 15 months\n7.  International Master in Advanced Cosmo Tech – 18 months\n8.  International Master in Ultra Cosmo Tech – 20 months",
+            "Our Cosmo Tech courses are tailored to provide in-depth knowledge and practical experience. Here’s the lineup:\n\n1.  Universal Certificate in Cosmo Tech – 4 months\n2.  International Diploma in Cosmo Tech – 6 months\n3.  International Diploma in Advanced Beauty \u0026 Hair – 9 months\n4.  International Diploma in Advanced Cosmo Tech – 11 months\n5.  International Diploma in Ultra Cosmo Tech – 13 months\n6.  International Graduate in Cosmo Tech – 15 months\n7.  International Master in Advanced Cosmo Tech – 18 months\n8.  International Master in Ultra Cosmo Tech – 20 months",
+            "Step into the world of professional cosmetology with our Cosmo Tech courses:\n\n1.  Universal Certificate in Cosmo Tech – 4 months\n2.  International Diploma in Cosmo Tech – 6 months\n3.  International Diploma in Advanced Beauty \u0026 Hair – 9 months\n4.  International Diploma in Advanced Cosmo Tech – 11 months\n5.  International Diploma in Ultra Cosmo Tech – 13 months\n6.  International Graduate in Cosmo Tech – 15 months\n7.  International Master in Advanced Cosmo Tech – 18 months\n8.  International Master in Ultra Cosmo Tech – 20 months",
+            "If you’re passionate about beauty and cosmetology, our Cosmo Tech courses can take you from beginner to expert. Here’s what we offer:\n\n1.  Universal Certificate in Cosmo Tech  (4 months)\n2.  International Diploma in Cosmo Tech   (6 months)\n3.  International Diploma in Advanced Beauty \u0026 Hair   (9 months)\n4.  International Diploma in Advanced Cosmo Tech   (11 months)\n5.  International Diploma in Ultra Cosmo Tech  (13 months)\n6.  International Graduate in Cosmo Tech   (15 months)\n7.  International Master in Advanced Cosmo Tech  (18 months)\n8.  International Master in Ultra Cosmo Tech   (20 months)"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Would you like to discuss which program suits your career goals best?",
+            "These courses are designed to elevate your expertise at every level. Would you like to explore the curriculum or discuss enrollment options?",
+            "Would you like to know more about the curriculum or career prospects?",
+            "Which course aligns with your goals? I’d be happy to share more details!",
+            "Would you like to know more about the career pathways or course details?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

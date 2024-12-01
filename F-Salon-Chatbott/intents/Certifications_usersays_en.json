@@ -1,0 +1,106 @@
+[
+  {
+    "id": "1ddaabee-3873-428b-b24e-d4dad5da8487",
+    "data": [
+      {
+        "text": "Will I receive a certificate upon course completion?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "940f02b6-f486-4464-9885-6179b158f503",
+    "data": [
+      {
+        "text": "Are the certificates internationally recognized?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a45c97e7-e899-4c59-93e2-07f6be034cb4",
+    "data": [
+      {
+        "text": "What certifications will I get from your academy?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f6e1a80-d529-4c18-a3af-d09e2994fab3",
+    "data": [
+      {
+        "text": "Are certifications part of all your programs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "512af316-0640-4689-84b5-93a06d31ad0d",
+    "data": [
+      {
+        "text": "Does the academy provide professional certification?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "127aeeb8-33c0-49bf-b01c-d20c877c4fab",
+    "data": [
+      {
+        "text": "Can I use the certification to apply for jobs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70c387fd-ff9e-4e5c-9680-f09adcaa3c0a",
+    "data": [
+      {
+        "text": "Will I get a certificate after training?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afb2e6dc-93ce-4330-8f53-ec02cefac600",
+    "data": [
+      {
+        "text": "Do you provide certifications after completing a course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

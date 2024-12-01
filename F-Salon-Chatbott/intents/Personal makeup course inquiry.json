@@ -1,0 +1,70 @@
+{
+  "id": "4d11ea25-6be1-43e8-bdd8-4b786babd84a",
+  "name": "Personal makeup course inquiry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "03c1573e-1828-493d-9683-5b55115680dc",
+          "name": "personal-makeup",
+          "required": false,
+          "dataType": "@personal-makeup",
+          "value": "$personal-makeup",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our Personal Makeup Artistry course includes the following:\n         Course Duration: 15 days\n         Fees: ₹15,000"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Topics Covered:\n   - Skin preparation and foundation application.\n   - Eye makeup techniques for daily wear and special occasions.\n   - Lip makeup and contouring.\n   - Everyday hairstyling techniques."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Career Opportunities:\n   - Personal makeup application for yourself and clients.\n   - Freelance makeup artist for casual events.\n   - Skills to enhance your personal makeup routine."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

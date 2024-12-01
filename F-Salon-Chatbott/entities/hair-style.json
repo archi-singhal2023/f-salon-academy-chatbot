@@ -1,0 +1,9 @@
+{
+  "id": "a9385112-9ba4-4e5c-b019-7b8f9ce71a96",
+  "name": "hair-style",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

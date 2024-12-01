@@ -1,0 +1,140 @@
+[
+  {
+    "id": "4c1affbf-5d19-4afc-a2b6-92bd72922109",
+    "data": [
+      {
+        "text": "Interested in ",
+        "userDefined": false
+      },
+      {
+        "text": "Skincare and Facial",
+        "meta": "@facial-skincare",
+        "alias": "facial-skincare",
+        "userDefined": true
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a2ddf9d-a8e5-4392-8b76-1b405ae5fae7",
+    "data": [
+      {
+        "text": "Lets explore ",
+        "userDefined": false
+      },
+      {
+        "text": "Facial",
+        "meta": "@facial-skincare",
+        "alias": "facial-skincare",
+        "userDefined": true
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "381a58e6-2858-438a-b133-78492072996d",
+    "data": [
+      {
+        "text": "What\u0027s included in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Skincare and Facials",
+        "meta": "@facial-skincare",
+        "alias": "facial-skincare",
+        "userDefined": true
+      },
+      {
+        "text": " course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "57706758-0296-497e-a9d9-95927c52870a",
+    "data": [
+      {
+        "text": "Can you give me details on the ",
+        "userDefined": false
+      },
+      {
+        "text": "Skincare",
+        "meta": "@facial-skincare",
+        "alias": "facial-skincare",
+        "userDefined": true
+      },
+      {
+        "text": " course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b206f97f-2e77-48b1-9bed-c790158e9d6c",
+    "data": [
+      {
+        "text": "What does the ",
+        "userDefined": false
+      },
+      {
+        "text": "Skincare course",
+        "meta": "@facial-skincare",
+        "alias": "facial-skincare",
+        "userDefined": true
+      },
+      {
+        "text": " cover?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb4ff8e6-43f6-4b08-bf5f-a3a4f53ed928",
+    "data": [
+      {
+        "text": "Tell me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Skincare and Facials",
+        "meta": "@facial-skincare",
+        "alias": "facial-skincare",
+        "userDefined": true
+      },
+      {
+        "text": " course",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

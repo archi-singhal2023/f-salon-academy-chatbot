@@ -1,0 +1,94 @@
+[
+  {
+    "id": "e56f2f2f-7830-41d2-acac-67498222ef70",
+    "data": [
+      {
+        "text": "What does the ",
+        "userDefined": false
+      },
+      {
+        "text": "advance Beauty Science",
+        "meta": "@advancebeautyscience",
+        "alias": "advancebeautyscience",
+        "userDefined": true
+      },
+      {
+        "text": " course include?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69d8f76f-f297-4926-a990-dcb55915b9a8",
+    "data": [
+      {
+        "text": "Can you give me details on the ",
+        "userDefined": false
+      },
+      {
+        "text": "Advanced Beauty Science",
+        "meta": "@advancebeautyscience",
+        "alias": "advancebeautyscience",
+        "userDefined": true
+      },
+      {
+        "text": " program?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d773d61-8a5d-494d-a81d-3f08ada6c790",
+    "data": [
+      {
+        "text": "What\u0027s covered in the  ",
+        "userDefined": false
+      },
+      {
+        "text": "advance Beauty Science",
+        "meta": "@advancebeautyscience",
+        "alias": "advancebeautyscience",
+        "userDefined": true
+      },
+      {
+        "text": " course?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77b81a28-6f3f-43dd-bf70-01b9ff1d8623",
+    "data": [
+      {
+        "text": "Tell me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "Advanced Beauty Science",
+        "meta": "@advancebeautyscience",
+        "alias": "advancebeautyscience",
+        "userDefined": true
+      },
+      {
+        "text": " course.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

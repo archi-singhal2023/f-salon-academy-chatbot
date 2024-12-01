@@ -1,0 +1,61 @@
+{
+  "id": "31156250-0ffe-4841-8481-d6205114593d",
+  "name": "Healthcare/Beauty Science Inquiry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We offer a wide range of beauty science courses, divided into short-term and mid-term programs:\n\nShort-Term Courses (Quick Certifications):\n\n1. Universal Certificate in Beauty Sciences: 2 months\n2. Learner’s Certificate in Beauty Sciences: 15 days\n3. International Certificate in Advanced Manicure and Pedicure: 1 month\n4. International Certificate in Cosmetic Formulations: 1 month\n5. International Certificate in Aesthetics Sciences: 2 months\n6. International Certificate in Draping Hues: 15 days\n7. International Certificate in Permanent Eyebrows \u0026 Eyelash Extension: 15 days",
+            "We offer a wide range of beauty science courses to help you achieve your career goals. Here’s an overview:\n\nShort-Term Courses (Quick Certifications):\n\n1. Universal Certificate in Beauty Sciences: 2 months\n2. Learner’s Certificate in Beauty Sciences: 15 days\n3. International Certificate in Advanced Manicure and Pedicure: 1 month\n4. International Certificate in Cosmetic Formulations: 1 month\n5. International Certificate in Aesthetics Sciences: 2 months\n6. International Certificate in Draping Hues: 15 days\n7. International Certificate in Permanent Eyebrows \u0026 Eyelash Extension: 15 days",
+            "Our beauty science programs are divided into short-term and mid-term courses, offering flexibility for learners. Here’s the complete list:\n\nShort-Term Courses (Quick Certifications):\n\n1. Universal Certificate in Beauty Sciences: 2 months\n2. Learner’s Certificate in Beauty Sciences: 15 days\n3. International Certificate in Advanced Manicure and Pedicure: 1 month\n4. International Certificate in Cosmetic Formulations: 1 month\n5. International Certificate in Aesthetics Sciences: 2 months\n6. International Certificate in Draping Hues: 15 days\n7. International Certificate in Permanent Eyebrows \u0026 Eyelash Extension: 15 days",
+            "We offer a variety of beauty science courses to suit your learning goals:\n\nShort-Term Courses (Quick Certifications):\n\n1. Universal Certificate in Beauty Sciences: 2 months\n2. Learner’s Certificate in Beauty Sciences: 15 days\n3. International Certificate in Advanced Manicure and Pedicure: 1 month\n4. International Certificate in Cosmetic Formulations: 1 month\n5. International Certificate in Aesthetics Sciences: 2 months\n6. International Certificate in Draping Hues: 15 days\n7. International Certificate in Permanent Eyebrows \u0026 Eyelash Extension: 15 days"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Mid-Term Courses (In-Depth Learning):\n\n1. International Certificate in Beauty Sciences: 3 months\n2. International Certificate in Advanced Beauty Sciences: 3 months\n3. International Diploma in Beauty Sciences: 6 months\n4. International Graduate in Advanced Beauty Sciences: 7 months\n5. International Master in Ultra Beauty Sciences: 8 months"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Would you like assistance in choosing the right course or understanding the enrollment process?",
+            "Would you like to explore the benefits or enrollment process for these courses?",
+            "Which course category would you like to know more about?",
+            "Would you like more information about any specific course or guidance on choosing the right one?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

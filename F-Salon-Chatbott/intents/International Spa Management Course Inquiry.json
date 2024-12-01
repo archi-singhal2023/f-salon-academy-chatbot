@@ -1,0 +1,70 @@
+{
+  "id": "d1c2ce56-e95d-494b-9229-56e31aec449f",
+  "name": "International Spa Management Course Inquiry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "997a01d0-e5cd-4ef0-918e-642097e92e26",
+          "name": "international-spa",
+          "required": false,
+          "dataType": "@international-spa",
+          "value": "$international-spa",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our International Spa Management course includes the following:\n       Course Duration: 1-3 months\n        Fees: ₹20,000 - 50,000"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Topics Covered:\n   - Spa operations and management techniques.\n   - Client care and spa treatment protocols.\n   - Spa business strategies and marketing."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Career Opportunities:\n   - Spa manager in luxury resorts or wellness centers.\n   - Entrepreneur in spa and wellness businesses.\n   - Consultant for international spa chains."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

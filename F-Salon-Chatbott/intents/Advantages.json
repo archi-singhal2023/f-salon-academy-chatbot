@@ -1,0 +1,42 @@
+{
+  "id": "a6774381-d4a4-409d-a6ab-e165baa4082a",
+  "name": "Advantages",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "F Salon Academy offers a comprehensive learning experience with industry-standard training, hands-on practice, and guidance from expert instructors. Our courses are designed to prepare you for a successful career in the beauty and wellness industry.",
+            "By joining F Salon Academy, you\u0027ll receive professional training that includes real-world salon experience, enabling you to kick-start your career with confidence. Many of our alumni have gone on to open their own salons or work with top brands.",
+            "We provide internationally recognized certifications and placement assistance to help you connect with leading names in the beauty industry. Our academy ensures you’re ready for the competitive market.",
+            "Our training programs emphasize hands-on practice with the latest tools and techniques, ensuring you gain real-world experience while learning.",
+            "You\u0027ll learn from industry experts with years of experience, giving you insights and techniques that are invaluable for your growth.",
+            "We offer personalized attention to every student, with small batch sizes to ensure effective learning and skill development.",
+            "We offer flexible course timings and tailored learning paths, making it easier for you to pursue your passion at your own pace.",
+            "Our academy is equipped with state-of-the-art facilities to provide a premium learning environment for all our students."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

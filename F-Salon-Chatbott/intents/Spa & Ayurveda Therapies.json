@@ -1,0 +1,56 @@
+{
+  "id": "83409458-e1e5-4925-97ed-68eeaac17f84",
+  "name": "Spa \u0026 Ayurveda Therapies",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "SpaAyurvedaTherapies-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Our Spa \u0026 Ayurveda Therapy courses blend ancient practices with modern techniques. Here’s a quick overview:\n\n1. International Certificate in Ancient Therapies (2 weeks)\n2. Universal Certificate in Spa \u0026 Ayurveda Therapies (1 month)\n3. International Certificate in Spa Therapies \u0026 Management (1 month)\n4. International Certificate in Ayurveda Therapies (1 month + 15 days)\n5. International Graduate in Advanced Spa Therapies \u0026 Management (2 months)\n6. International Master in Ultra Spa Management \u0026 Ayurveda Therapies (3 months)",
+            "Our courses in Spa \u0026 Ayurveda Therapies provide a perfect mix of ancient wisdom and professional training. Here’s what we offer:\n\n1. International Certificate in Ancient Therapies – 2 weeks\n2. Universal Certificate in Spa \u0026 Ayurveda Therapies – 1 month\n3. International Certificate in Spa Therapies \u0026 Management – 1 month\n4. International Certificate in Ayurveda Therapies – 1 month + 15 days\n5. International Graduate in Advanced Spa Therapies \u0026 Management – 2 months\n6. International Master in Ultra Spa Management \u0026 Ayurveda Therapies – 3 months",
+            "If you’re passionate about wellness, our Spa \u0026 Ayurveda courses are just what you need:\n\n1. International Certificate in Ancient Therapies – 2 weeks\n2. Universal Certificate in Spa \u0026 Ayurveda Therapies – 1 month\n3. International Certificate in Spa Therapies \u0026 Management – 1 month\n4. International Certificate in Ayurveda Therapies – 1 month + 15 days\n5. International Graduate in Advanced Spa Therapies \u0026 Management – 2 months\n6. International Master in Ultra Spa Management \u0026 Ayurveda Therapies – 3 months",
+            "Are you ready to explore the world of Spa \u0026 Ayurveda Therapies? We offer:\n\n1. International Certificate in Ancient Therapies – 2 weeks\n2. Universal Certificate in Spa \u0026 Ayurveda Therapies – 1 month\n3. International Certificate in Spa Therapies \u0026 Management – 1 month\n4. International Certificate in Ayurveda Therapies – 1 month + 15 days\n5. International Graduate in Advanced Spa Therapies \u0026 Management – 2 months\n6. International Master in Ultra Spa Management \u0026 Ayurveda Therapies – 3 months"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Would you like details about the curriculum or career opportunities for these courses?",
+            "Would you like to explore the benefits or ask about enrollment?",
+            "These courses are ideal for enhancing your career in spa management and Ayurveda. Would you like more information about any specific course?",
+            "What interests you the most? Let’s find the right fit for your career!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

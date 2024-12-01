@@ -1,0 +1,9 @@
+{
+  "id": "e1d61856-9b04-4b43-b99b-5745b295166a",
+  "name": "international-spa",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
